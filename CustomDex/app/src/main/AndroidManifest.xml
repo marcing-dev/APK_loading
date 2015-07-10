@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pl.com.marcing.android.customdex">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <application android:allowBackup="true"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="pl.com.marcing.android.customdex.TestActivity">
+
+            </activity>
+    </application>
+
+</manifest>

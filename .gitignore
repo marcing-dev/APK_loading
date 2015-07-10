@@ -4,6 +4,13 @@ DynamicActivityLoader/.idea/workspace.xml
 DynamicActivityLoader/.idea/libraries
 DynamicActivityLoader/.DS_Store
 DynamicActivityLoader/build
+.gradle
+CustomDex/local.properties
+CustomDex/.idea/workspace.xml
+CustomDex/.idea/libraries
+.DS_Store
+CustomDex/build
+
 
 # Windows image file caches
 Thumbs.db
