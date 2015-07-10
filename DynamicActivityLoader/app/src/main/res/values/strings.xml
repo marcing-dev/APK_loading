@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DynamicActivityLoader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dynamic_class_load">DynamicClassLoadActivity</string>
+    <string name="title_activity_dynamic_activity_load">DynamicActivityLoadActivity</string>
+    <string name="go_back">Go back!</string>
+    <string name="dynamic_class">Dynamic class loading...</string>
+    <string name="dynamic_activity">Dynamic activity loading...</string>
+    <string name="load_class">Load class!</string>
+    <string name="load_activity">Load Activity!</string>
+    <string name="zygote_test">Test Zygote</string>
+    <string name="title_activity_zygote_test">ZygoteTestActivity</string>
+    <string name="go_btn">GO!</string>
+
+</resources>

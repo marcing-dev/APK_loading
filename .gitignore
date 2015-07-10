@@ -1,3 +1,10 @@
+DynamicActivityLoader/.gradle
+DynamicActivityLoader/local.properties
+DynamicActivityLoader/.idea/workspace.xml
+DynamicActivityLoader/.idea/libraries
+DynamicActivityLoader/.DS_Store
+DynamicActivityLoader/build
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
